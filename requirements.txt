@@ -1,0 +1,8 @@
+sympy
+numpy
+scipy
+flake8
+scikit-learn
+pandas
+pytest
+mpi4py
