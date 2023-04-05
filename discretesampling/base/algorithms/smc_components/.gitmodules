@@ -1,0 +1,4 @@
+[submodule "O_logN_parallel_redistribution"]
+	branch = distributed_fixed_size_redistribution
+[submodule "distributed_fixed_size_redistribution"]
+	branch = distributed_fixed_size_redistribution
