@@ -10,6 +10,9 @@ Published in DOI: XXXX
 Copyright (c) 2023, University of Liverpool.
 
 ## Requirements
+
+The versions of Python and Python packages used for the results in XXX
+are as follows:
  - Python 3.9.16
  - numpy 1.19.2
  - scipy 1.5.2
