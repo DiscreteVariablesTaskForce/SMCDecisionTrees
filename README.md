@@ -8,7 +8,7 @@ sampling and decision forest (using sk-learn).
 
 Published in DOI: XXXX
 
-This software is licenced under Eclipse Public License 2.0. See [LICENSE](LICENSE) for more details.
+This software is licensed under Eclipse Public License 2.0. See [LICENSE](LICENSE) for more details.
 
 This software is property of University of Liverpool and any requests for the use of the software for commercial use or other use outside of the Eclipse Public License should be made to University of Liverpool.
 
